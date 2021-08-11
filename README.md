@@ -1,6 +1,5 @@
 # Test
 Test repository
 
-Hi,
+During my PhD and my first post-doc my main research topic has been the investigation of the relationship between the deformation mechanisms and the mechanical response of metallic samples subjected to external stimuli. Since the beginning of last year, I have been working as a postdoctoral researcher on the EU-funded CARINE project which aims at tracking in situ and operando the structural evolution of catalytic nanoparticles during reaction.
 
-I'm currently a postdoctoral fellow at the CEA Grenoble and a visiting scientist at the ESRF also in Grenoble, working on the interplay between strain and defects and catalytic activity in metallic nanoparticles.
