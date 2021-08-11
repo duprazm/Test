@@ -83,7 +83,7 @@ M_rot = np.dot(np.transpose(a),np.transpose(invb))
 # Load VTK file
 # =============================================================================
 
-scan = 859
+scan = 864
 name = 'facet'
 
 pathdir = '/home/dupraz/Documents/Network/nili/analysis/Pt/P10/align_02_%05d/pynxraw/modes-HIO-300/'
